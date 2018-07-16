@@ -4,3 +4,7 @@ What we gots to do boyz.
 		pick out your micro, pick out your FPGA
 		Choose some sensors
 	3. Decide on how much fun you want. :)
+	
+Finished:
+	1. Ordered Pine board module. Will arrive in a week. 
+	2. Basic outline for Project created. 
